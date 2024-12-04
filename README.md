@@ -6,4 +6,4 @@ i make programs and they work sometimes i guess
 
 
 ### Currently working on
-- <a href="" target="https://github.com/FritzTom/himauri-tools" rel="noopener noreferrer">Himauri Translation Tool</a>
+- <a href="https://github.com/FritzTom/himauri-tools" target="https://github.com/FritzTom/himauri-tools" rel="noopener noreferrer">Himauri Translation Tool</a>
